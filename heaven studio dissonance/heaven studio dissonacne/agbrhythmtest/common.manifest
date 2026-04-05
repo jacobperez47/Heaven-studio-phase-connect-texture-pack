@@ -1,0 +1,110 @@
+ManifestFileVersion: 0
+CRC: 3993691219
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 44ecdd7d4e711f989e9b2d65cc7cee5e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c622cd3a07984899bac3fabd7cec4bca
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 44ecdd7d4e711f989e9b2d65cc7cee5e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 49b5dd0ebb0a05a4c8213175d5bf07b5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Bundled/Games/RhythmTestGBA/Sprites/Animation/Text/TextFlash.anim
+- Assets/Bundled/Games/RhythmTestGBA/Sprites/Animation/Number/Two.anim
+- Assets/Bundled/Games/RhythmTestGBA/Sprites/Animation/Number BG/Static.anim
+- Assets/Bundled/Games/RhythmTestGBA/Sprites/Animation/Button/Press.anim
+- Assets/Bundled/Games/RhythmTestGBA/Sounds/blip2.ogg
+- Assets/Bundled/Games/RhythmTestGBA/Sprites/Animation/Number/Nine.anim
+- Assets/Bundled/Games/RhythmTestGBA/Sprites/Animation/Number/Eight.anim
+- Assets/Bundled/Games/RhythmTestGBA/Sprites/Animation/Number BG/FlashBG.anim
+- Assets/Bundled/Games/RhythmTestGBA/Sprites/Animation/Text/TextGone.anim
+- Assets/Bundled/Games/RhythmTestGBA/Sounds/blip.ogg
+- Assets/Bundled/Games/RhythmTestGBA/Sounds/blip3.ogg
+- Assets/Bundled/Games/RhythmTestGBA/Sounds/press.ogg
+- Assets/Bundled/Games/RhythmTestGBA/Sprites/Animation/Number BG/BG.controller
+- Assets/Bundled/Games/RhythmTestGBA/Sprites/Animation/Text/TextIdle.anim
+- Assets/Bundled/Games/RhythmTestGBA/Sprites/Animation/Number BG/FlashHit.anim
+- Assets/Bundled/Games/RhythmTestGBA/rhythmTestGBA.prefab
+- Assets/Bundled/Games/RhythmTestGBA/Sprites/Animation/Number/Five.anim
+- Assets/Bundled/Games/RhythmTestGBA/Sprites/Animation/Number/Six.anim
+- Assets/Bundled/Games/RhythmTestGBA/Sprites/Animation/Text/Text (TMP).controller
+- Assets/Bundled/Games/RhythmTestGBA/Sounds/end_ding.ogg
+- Assets/Bundled/Games/RhythmTestGBA/Sprites/Animation/Button/Idle.anim
+- Assets/Bundled/Games/RhythmTestGBA/Sprites/Animation/Number/Idle.anim
+- Assets/Bundled/Games/RhythmTestGBA/Sprites/Button_Practice_Upscale.png
+- Assets/Bundled/Games/RhythmTestGBA/Sprites/Animation/Flash/KTBPulse.anim
+- Assets/Bundled/Games/RhythmTestGBA/Sprites/Animation/Number/Four.anim
+- Assets/Bundled/Games/RhythmTestGBA/Sprites/Animation/Flash/Flash.controller
+- Assets/Bundled/Games/RhythmTestGBA/Sprites/Animation/Number/Number.controller
+- Assets/Bundled/Games/RhythmTestGBA/Sprites/RhythmTest.png
+- Assets/Bundled/Games/RhythmTestGBA/Sprites/Animation/Number/Three.anim
+- Assets/Bundled/Games/RhythmTestGBA/Sprites/Animation/Flash/Idle.anim
+- Assets/Bundled/Games/RhythmTestGBA/Sprites/Animation/Number/One.anim
+- Assets/Bundled/Games/RhythmTestGBA/Sprites/Screenshot (293).png
+- Assets/Bundled/Games/RhythmTestGBA/Sprites/Screenshot (292).png
+- Assets/Bundled/Games/RhythmTestGBA/Sprites/Animation/Number/Zero.anim
+- Assets/Bundled/Games/RhythmTestGBA/Sprites/Animation/Number BG/Idle.anim
+- Assets/Bundled/Games/RhythmTestGBA/Sprites/Animation/Button/Button.controller
+- Assets/Bundled/Games/RhythmTestGBA/Sprites/Animation/Number/Seven.anim
+Dependencies: []

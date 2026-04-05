@@ -1,0 +1,150 @@
+ManifestFileVersion: 0
+CRC: 2644415792
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d53c80d724356f007a4c2c10269f9db8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 55be2f47119a908c915fec6cb1ebedd1
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d53c80d724356f007a4c2c10269f9db8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b00b18871835504e85f9dbf2093dac1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2430b0a2323860c41973e7787c3ba3f5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bafcabbad96e9bf42bc621cdcb240c7a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: HeavenStudio.Games.SickBeats/DashPatternItem
+Assets:
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/fork/forkResist-h0.anim
+- Assets/Bundled/Games/SickBeats/Sprites/sickBeats_virus4.mat
+- Assets/Bundled/Games/SickBeats/Sounds/fadeout.wav
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusResist0.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/fork/forkStabLate-h.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusAppearRight.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/key.controller
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusDashDown.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusDashRight.anim
+- Assets/Bundled/Games/SickBeats/Sprites/sickBeats_virus1.mat
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/fork/forkRepop.anim
+- Assets/Bundled/Games/SickBeats/Sounds/resist.ogg
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusStabLateRight.anim
+- Assets/Bundled/Games/SickBeats/Sounds/miss.wav
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/fork.controller
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/doctorShock1.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/radio.controller
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/doctorBop.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusDashLeft.anim
+- Assets/Bundled/Games/SickBeats/sickBeats.prefab
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/fork/forkIdle.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusStabFastRight.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/fork/forkStabLate-v.anim
+- Assets/Bundled/Games/SickBeats/Sprites/sick_main.png
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusStabFastUp.anim
+- Assets/Bundled/Games/SickBeats/Sounds/fork2.wav
+- Assets/Bundled/Games/SickBeats/Sounds/whoosh.ogg
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusDash.anim
+- Assets/Bundled/Games/SickBeats/Sounds/virusIn.wav
+- Assets/Bundled/Games/SickBeats/Sounds/stab.ogg
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/fork/forkStab-v.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/fork/forkResist-h1.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/doctorShock0.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusResistLeft1.anim
+- Assets/Bundled/Games/SickBeats/Sounds/appear1.wav
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusIdle.anim
+- Assets/Bundled/Games/SickBeats/Sounds/fork1.wav
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/fork/forkResist-v0.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusStabLateUp.anim
+- Assets/Bundled/Games/SickBeats/Sprites/sick_bg.png
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/keyKeep.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusLaugh.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusStabDown.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusStabLateDown.anim
+- Assets/Bundled/Games/SickBeats/Sounds/appear0.wav
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/organism.controller
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusAppear.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusEnter.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusResistRight0.anim
+- Assets/Bundled/Games/SickBeats/Sprites/sickBeats_virus3.mat
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusStabFast.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusStabLate.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/fork/forkStab-h.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusResistDown1.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/fork/forkStabFast-h.anim
+- Assets/Bundled/Games/SickBeats/Sounds/appear.ogg
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/keyPush.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/fork/forkResist-v1.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusStabLeft.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusResistUp1.anim
+- Assets/Bundled/Games/SickBeats/Sounds/bad.wav
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusStabFastDown.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/orgVanish.anim
+- Assets/Bundled/Games/SickBeats/Sprites/sick_virus.png
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusStabRight.anim
+- Assets/Bundled/Games/SickBeats/Sounds/hit.wav
+- Assets/Bundled/Games/SickBeats/Sounds/note_land.wav
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/doctor.controller
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusAppearUp.anim
+- Assets/Bundled/Games/SickBeats/Sounds/1.wav
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/orgAppear.anim
+- Assets/Bundled/Games/SickBeats/Sounds/dash.wav
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusStab.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusHide.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusStabFastLeft.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusResist1.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusAppearLeft.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusResistRight1.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusDashUp.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusResistLeft0.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusAppearDown.anim
+- Assets/Bundled/Games/SickBeats/Sprites/sickBeats_virus2.mat
+- Assets/Bundled/Games/SickBeats/Sounds/fork0.wav
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusResistUp0.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/radioBop.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusStabLateLeft.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusStabUp.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/orgDamage.anim
+- Assets/Bundled/Games/SickBeats/Sounds/resist.wav
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/keyUp.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/fork/forkStabFast-v.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusSummon.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus/virusResistDown0.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/virus.controller
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/orgBop.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/doctorVsign.anim
+- Assets/Bundled/Games/SickBeats/Sprites/Animations/fork/forkOut.anim
+Dependencies: []

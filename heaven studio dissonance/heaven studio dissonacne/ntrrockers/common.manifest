@@ -1,0 +1,150 @@
+ManifestFileVersion: 0
+CRC: 2885984456
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d7e48cd92925a17fbc9edbc02fe968da
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5750d4cb36bc7d647441c4d205468647
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d7e48cd92925a17fbc9edbc02fe968da
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 061139f39edbd4340814a1cc568dbb9b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e879fe35102c7154aaed4934ab31bed1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8fb47fde533de754e9d8fa37bcd9dd63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 40bd44c5381eb69468a65caa371f3876, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Games/Rockers/Sounds/rocker/rockerRemix10ChordD.wav
+- Assets/Bundled/Games/Rockers/Sprites/Animations/JJComeOnPrepareNoMute.anim
+- Assets/Bundled/Games/Rockers/Sprites/Animations/JJJump.anim
+- Assets/Bundled/Games/Rockers/Sounds/doremi/doremiChordDm.wav
+- Assets/Bundled/Games/Rockers/Sprites/Animations/Crouch.anim
+- Assets/Bundled/Games/Rockers/Sounds/rocker/rockerRemix10ChordF#m.wav
+- Assets/Bundled/Games/Rockers/Sounds/doremi/doremiChordG.wav
+- Assets/Bundled/Games/Rockers/Sprites/Animations/Test.anim
+- Assets/Bundled/Games/Rockers/Sounds/doremi/doremiChordAm7.wav
+- Assets/Bundled/Games/Rockers/Sounds/rocker/rockerChordAsus4.wav
+- Assets/Bundled/Games/Rockers/Sprites/Animations/StrumStartRIght.anim
+- Assets/Bundled/Games/Rockers/Sounds/rocker/rockerChordBm.wav
+- Assets/Bundled/Games/Rockers/Sounds/strings/gleeClub/gleeClub1.wav
+- Assets/Bundled/Games/Rockers/Sprites/Animations/JJMiss.anim
+- Assets/Bundled/Games/Rockers/Sprites/Animations/StrumEffects.controller
+- Assets/Bundled/Games/Rockers/Sounds/Applause.wav
+- Assets/Bundled/Games/Rockers/Sprites/JJGuitarMap.mat
+- Assets/Bundled/Games/Rockers/Sounds/doremi/doremiNoteE2.wav
+- Assets/Bundled/Games/Rockers/Sounds/Clap.wav
+- Assets/Bundled/Games/Rockers/Sprites/Animations/ComeOnStrum.anim
+- Assets/Bundled/Games/Rockers/Sounds/rocker/rockerChordDmaj7.wav
+- Assets/Bundled/Games/Rockers/Sounds/rocker/rockerChordG5.wav
+- Assets/Bundled/Games/Rockers/Sounds/doremi/doremiChordC.wav
+- Assets/Bundled/Games/Rockers/Sounds/strings/normal/normal4.wav
+- Assets/Bundled/Games/Rockers/Sprites/JJBodyMap.mat
+- Assets/Bundled/Games/Rockers/Sprites/Animations/ComeOnPrepare.anim
+- Assets/Bundled/Games/Rockers/Sprites/Animations/StrumLeft.anim
+- Assets/Bundled/Games/Rockers/Sounds/rocker/rockerChordC#m7.wav
+- Assets/Bundled/Games/Rockers/Sounds/rocker/rockerChordGm.wav
+- Assets/Bundled/Games/Rockers/Sounds/BendG5.wav
+- Assets/Bundled/Games/Rockers/Sounds/strings/normal/normal2.wav
+- Assets/Bundled/Games/Rockers/Sounds/bendDown.wav
+- Assets/Bundled/Games/Rockers/Sounds/strings/normal/normal5.wav
+- Assets/Bundled/Games/Rockers/Sounds/strings/normal/normal1.wav
+- Assets/Bundled/Games/Rockers/Sounds/strings/gleeClub/gleeClub6.wav
+- Assets/Bundled/Games/Rockers/Sprites/Animations/Idle.anim
+- Assets/Bundled/Games/Rockers/Sounds/rocker/rockerChordF#5.wav
+- Assets/Bundled/Games/Rockers/Sounds/doremi/doremiChordA7.wav
+- Assets/Bundled/Games/Rockers/Sprites/Animations/UnCrouch.anim
+- Assets/Bundled/Games/Rockers/Sprites/Animations/Land.anim
+- Assets/Bundled/Games/Rockers/Sounds/strings/gleeClub/gleeClub4.wav
+- Assets/Bundled/Games/Rockers/Sprites/rockersbg.png
+- Assets/Bundled/Games/Rockers/Sprites/Animations/JJComeOnMute.anim
+- Assets/Bundled/Games/Rockers/Sounds/doremi/doremiChordF.wav
+- Assets/Bundled/Games/Rockers/Sprites/rockersmain.png
+- Assets/Bundled/Games/Rockers/Sprites/Animations/JJComeOnPrepare.anim
+- Assets/Bundled/Games/Rockers/Sounds/rocker/rockerChordGdim7.wav
+- Assets/Bundled/Games/Rockers/Sounds/Whistle.wav
+- Assets/Bundled/Games/Rockers/Sprites/Animations/JJHolder.controller
+- Assets/Bundled/Games/Rockers/Sprites/Animations/Pitchbend.anim
+- Assets/Bundled/Games/Rockers/Sounds/strings/normal/normal6.wav
+- Assets/Bundled/Games/Rockers/Sounds/rocker/rockerChordDmaj9.wav
+- Assets/Bundled/Games/Rockers/Sprites/Animations/ComeOnMute.anim
+- Assets/Bundled/Games/Rockers/Sprites/Animations/JJComeOnStrum.anim
+- Assets/Bundled/Games/Rockers/Sprites/Animations/UnPitchbend.anim
+- Assets/Bundled/Games/Rockers/Sounds/doremi/doremiChordC7.wav
+- Assets/Bundled/Games/Rockers/Sprites/Animations/StrumRight.anim
+- Assets/Bundled/Games/Rockers/Sounds/doremi/doremiNoteA2.wav
+- Assets/Bundled/Games/Rockers/Sounds/noise.wav
+- Assets/Bundled/Games/Rockers/Sprites/SoshiBodyMap.mat
+- Assets/Bundled/Games/Rockers/rockers.prefab
+- Assets/Bundled/Games/Rockers/Sprites/Animations/JJUnbend.anim
+- Assets/Bundled/Games/Rockers/Sounds/strings/gleeClub/gleeClub5.wav
+- Assets/Bundled/Games/Rockers/Sounds/doremi/doremiChordG7.wav
+- Assets/Bundled/Games/Rockers/Sprites/Animations/Strum.anim
+- Assets/Bundled/Games/Rockers/Sprites/Animations/StrumIdle.anim
+- Assets/Bundled/Games/Rockers/Sprites/Animations/JJIdle.anim
+- Assets/Bundled/Games/Rockers/Sounds/rocker/rockerRemix6ChordA.wav
+- Assets/Bundled/Games/Rockers/Sprites/Animations/StudentHolder.controller
+- Assets/Bundled/Games/Rockers/Sounds/doremi/doremiChordGm.wav
+- Assets/Bundled/Games/Rockers/Sounds/doremi/doremiChordFm.wav
+- Assets/Bundled/Games/Rockers/Sounds/rocker/rockerNoteA#4.wav
+- Assets/Bundled/Games/Rockers/Sounds/BendC6.wav
+- Assets/Bundled/Games/Rockers/Sounds/Cheer.wav
+- Assets/Bundled/Games/Rockers/Sprites/SoshiGuitarMap.mat
+- Assets/Bundled/Games/Rockers/Sprites/Animations/JJCrouch.anim
+- Assets/Bundled/Games/Rockers/Sprites/Animations/StrumStart.anim
+- Assets/Bundled/Games/Rockers/Sprites/Animations/JJReturn.anim
+- Assets/Bundled/Games/Rockers/Sprites/Animations/ComeOnPrepareNomute.anim
+- Assets/Bundled/Games/Rockers/Sounds/strings/gleeClub/gleeClub2.wav
+- Assets/Bundled/Games/Rockers/Sounds/rocker/rockerChordG.wav
+- Assets/Bundled/Games/Rockers/Sounds/strings/gleeClub/gleeClub3.wav
+- Assets/Bundled/Games/Rockers/Sounds/strings/normal/normal3.wav
+- Assets/Bundled/Games/Rockers/Sounds/doremi/doremiChordDm7.wav
+- Assets/Bundled/Games/Rockers/Sounds/doremi/doremiChordCadd9.wav
+- Assets/Bundled/Games/Rockers/Sounds/mute.wav
+- Assets/Bundled/Games/Rockers/Sounds/doremi/doremiChordEm.wav
+- Assets/Bundled/Games/Rockers/Sprites/Animations/JJLand.anim
+- Assets/Bundled/Games/Rockers/Sounds/bendUp.wav
+- Assets/Bundled/Games/Rockers/Sprites/Animations/JJUnCrouch.anim
+- Assets/Bundled/Games/Rockers/Sprites/Animations/Jump.anim
+- Assets/Bundled/Games/Rockers/Sprites/Animations/StrumStartLeft.anim
+- Assets/Bundled/Games/Rockers/Sounds/rocker/rockerPracticeChordD.wav
+- Assets/Bundled/Games/Rockers/Sprites/Animations/Return.anim
+- Assets/Bundled/Games/Rockers/Sounds/rocker/rockerNoteA5.wav
+- Assets/Bundled/Games/Rockers/Sprites/Animations/JJMissComeOn.anim
+- Assets/Bundled/Games/Rockers/Sounds/doremi/doremiChordGsus4.wav
+- Assets/Bundled/Games/Rockers/Sprites/Animations/JJBend.anim
+- Assets/Bundled/Games/Rockers/Sprites/Animations/JJStrum.anim
+- Assets/Bundled/Games/Rockers/Sounds/doremi/doremiChordFadd9.wav
+- Assets/Bundled/Games/Rockers/Sounds/rocker/rockerChordA.wav
+Dependencies: []

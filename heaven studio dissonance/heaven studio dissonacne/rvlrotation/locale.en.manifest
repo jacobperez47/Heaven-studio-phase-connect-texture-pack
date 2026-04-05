@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3823260799
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a9a2ef01df4a63939fc0ef5a475da2ca
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a9a2ef01df4a63939fc0ef5a475da2ca
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Games/BoardMeeting/Sounds/one.wav
+- Assets/Bundled/Games/BoardMeeting/Sounds/two.wav
+- Assets/Bundled/Games/BoardMeeting/Sounds/twoUra.wav
+- Assets/Bundled/Games/BoardMeeting/Sounds/three.wav
+Dependencies: []

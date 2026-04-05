@@ -1,0 +1,90 @@
+ManifestFileVersion: 0
+CRC: 1993956074
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d21c17214cf3339f217e26b2bb3306f3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d31ffd100aaf4267b0b8f67436c68a3e
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d21c17214cf3339f217e26b2bb3306f3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1d92a169b894684429df3bc113698228, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 257f3dae2f7b7ed43b0133a7f2ac3447, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 210
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Games/BoardMeeting/Sprites/The Executives BM.png
+- Assets/Bundled/Games/BoardMeeting/Sounds/rollPrepareB.wav
+- Assets/Bundled/Games/BoardMeeting/Sprites/FixLines.mat
+- Assets/Bundled/Games/BoardMeeting/Sprites/Animation/Executive/Miss.anim
+- Assets/Bundled/Games/BoardMeeting/Sprites/Chair BM.png
+- Assets/Bundled/Games/BoardMeeting/Sprites/Animation/Executive/Idle.anim
+- Assets/Bundled/Games/BoardMeeting/Sounds/rollC.wav
+- Assets/Bundled/Games/BoardMeeting/boardMeeting.prefab
+- Assets/Bundled/Games/BoardMeeting/Sounds/rollB.wav
+- Assets/Bundled/Games/BoardMeeting/Sprites/BG BM.png
+- Assets/Bundled/Games/BoardMeeting/Sprites/Animation/Assistant/bm_assistant.controller
+- Assets/Bundled/Games/BoardMeeting/Sprites/Animation/Assistant/One.anim
+- Assets/Bundled/Games/BoardMeeting/Sprites/Animation/Executive/SmileBop.anim
+- Assets/Bundled/Games/BoardMeeting/Sounds/rollPrepareC.wav
+- Assets/Bundled/Games/Rockers/Sprites/Assistant BM.png
+- Assets/Bundled/Games/BoardMeeting/Sounds/stopAll.wav
+- Assets/Bundled/Games/BoardMeeting/Sprites/Animation/Assistant/Three.anim
+- Assets/Bundled/Games/BoardMeeting/Sounds/stopB.wav
+- Assets/Bundled/Games/BoardMeeting/Sounds/miss.wav
+- Assets/Bundled/Games/BoardMeeting/Sounds/stopA.wav
+- Assets/Bundled/Games/BoardMeeting/Sprites/Animation/Executive/SmileIdle.anim
+- Assets/Bundled/Games/BoardMeeting/Sprites/Animation/Executive/Bop.anim
+- Assets/Bundled/Games/BoardMeeting/Sprites/Assistant BM.png
+- Assets/Bundled/Games/BoardMeeting/Sounds/rollPrepareA.wav
+- Assets/Bundled/Games/BoardMeeting/Sounds/missThrough.wav
+- Assets/Bundled/Games/BoardMeeting/Sounds/rollPreparePlayer.wav
+- Assets/Bundled/Games/BoardMeeting/Sounds/chairLoop.wav
+- Assets/Bundled/Games/BoardMeeting/Sprites/Animation/Executive/LoopSpin.anim
+- Assets/Bundled/Games/BoardMeeting/Sprites/Animation/Executive/Spin.anim
+- Assets/Bundled/Games/BoardMeeting/Sounds/rollPlayer.wav
+- Assets/Bundled/Games/BoardMeeting/Sounds/stopC.wav
+- Assets/Bundled/Games/BoardMeeting/Sounds/prepare.wav
+- Assets/Bundled/Games/BoardMeeting/Sprites/Animation/Assistant/MissBop.anim
+- Assets/Bundled/Games/BoardMeeting/Sprites/Animation/Executive/Stop.anim
+- Assets/Bundled/Games/BoardMeeting/Sounds/rollA.wav
+- Assets/Bundled/Games/BoardMeeting/Sprites/Animation/Executive/bm_executive.controller
+- Assets/Bundled/Games/BoardMeeting/Sprites/Animation/Assistant/Idle.anim
+- Assets/Bundled/Games/BoardMeeting/Sprites/Animation/Assistant/MissIdle.anim
+- Assets/Bundled/Games/BoardMeeting/Sounds/stopAllPlayer.wav
+- Assets/Bundled/Games/BoardMeeting/Sprites/Animation/Assistant/Bop.anim
+- Assets/Bundled/Games/BoardMeeting/Sounds/stopPlayer.wav
+- Assets/Bundled/Games/BoardMeeting/Sprites/Animation/Executive/Prepare.anim
+- Assets/Bundled/Games/BoardMeeting/Sprites/Animation/Assistant/Stop.anim
+Dependencies: []

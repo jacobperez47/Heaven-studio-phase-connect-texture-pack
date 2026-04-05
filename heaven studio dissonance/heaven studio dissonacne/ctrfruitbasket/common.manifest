@@ -1,0 +1,159 @@
+ManifestFileVersion: 0
+CRC: 2789275253
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be96708c83df4ee1268a4d13cb2baa0e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a49daf688b990de49f095b8435606305
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: be96708c83df4ee1268a4d13cb2baa0e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1d7ec66a385d351438d602b5156b9e29, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d217e2c6a043b6d4f94766f053e10339, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0f9162c5fc1476a4b996e5f634ccd0ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30480490b93881d449d8bfbf29708f85, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3466c8a8e5db1f54da28f2c904622a63, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 329
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: HeavenStudio.SuperCurveObject/Path
+- AssemblyName: Assembly-CSharp
+  ClassName: HeavenStudio.SuperCurveObject/PathPos
+- AssemblyName: Assembly-CSharp
+  ClassName: HeavenStudio.SuperCurveObject/PathValue
+Assets:
+- Assets/Bundled/Games/FruitBasket/Sounds/goalHitL.ogg
+- Assets/Bundled/Games/FruitBasket/Sounds/basketL.ogg
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/Courtney/DaydreamExpressions/daydreamTongueFadeIn.anim
+- Assets/Bundled/Games/FruitBasket/Sounds/lemonL.ogg
+- Assets/Bundled/Games/FruitBasket/Sounds/goalHit.ogg
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/pipe/pipeFlash.anim
+- Assets/Bundled/Games/FruitBasket/Sounds/melonImpactR.ogg
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/hoop/hoopShake.anim
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/Courtney/hitFruit.anim
+- Assets/Bundled/Games/FruitBasket/Sounds/melonImpactL.ogg
+- Assets/Bundled/Games/FruitBasket/Sprites/2025-11-04_14-55-55.mp4
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/Courtney/DaydreamExpressions/daydreamWorried.anim
+- Assets/Bundled/Games/FruitBasket/Sprites/confetti.mat
+- Assets/Bundled/Games/FruitBasket/Sounds/apple.ogg
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/Courtney/DaydreamExpressions/daydreamNoneFadeIn.anim
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/hoop/hoopIdle.anim
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/daydreams/Thought.controller
+- Assets/Bundled/Games/FruitBasket/Sprites/BG FB2.png
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/Courtney/DaydreamExpressions/daydreamKissFadeIn.anim
+- Assets/Bundled/Games/FruitBasket/Sounds/goalHitR.ogg
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/cats/Cats.controller
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/Courtney/face_just.anim
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/Courtney/Mouth.controller
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/pipe/PipeL.controller
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/Courtney/laugh.anim
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/Courtney/DaydreamExpressions/daydreamTongue.anim
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/Courtney/miss.anim
+- Assets/Bundled/Games/FruitBasket/Sounds/melonR.ogg
+- Assets/Bundled/Games/FruitBasket/Sounds/melonBasketL.ogg
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/thoughtBubble/thoughtBubble.anim
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/Courtney/idle.anim
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/cats/catsBop.anim
+- Assets/Bundled/Games/FruitBasket/fruitBasket.prefab
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/thoughtBubble/thoughtBubbleIdle.anim
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/pipe/PipeR.controller
+- Assets/Bundled/Games/FruitBasket/Sprites/refer.JPG
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/pipe/pipeIdle.anim
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/Courtney/Courtney.controller
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/Courtney/whiff.anim
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/thoughtBubble/thoughtBubbleFadeIn.anim
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/daydreams/Dog.anim
+- Assets/Bundled/Games/FruitBasket/Sprites/BG FB1.png
+- Assets/Bundled/Games/FruitBasket/Sprites/Foreground.png
+- Assets/Bundled/Games/FruitBasket/Sprites/Main.png
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/hoop/hoopScoreMelon.anim
+- Assets/Bundled/Games/FruitBasket/Sprites/confetti.fbx
+- Assets/Bundled/Games/FruitBasket/Sprites/Thoughts References.png
+- Assets/Bundled/Games/FruitBasket/Sounds/appleL.ogg
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/Courtney/fruit_hit.anim
+- Assets/Bundled/Games/FruitBasket/Sounds/basket.ogg
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/daydreams/Skateboard.anim
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/hoop/hoopScore.anim
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/thoughtBubble/thoughtBubbleFadeOut.anim
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/Courtney/laughFadeOut.anim
+- Assets/Bundled/Games/FruitBasket/Sprites/ref2.png
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/thoughtBubble/ThoughtBubble.controller
+- Assets/Bundled/Games/FruitBasket/Sprites/Thoughts.png
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/Courtney/DaydreamExpressions/daydreamWorriedFadeIn.anim
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/daydreams/Spider.anim
+- Assets/Bundled/Games/FruitBasket/Sprites/BG MR.png
+- Assets/Bundled/Games/FruitBasket/Sounds/lemonR.ogg
+- Assets/Bundled/Games/FruitBasket/Sounds/melonBasketCenter.wav
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/Courtney/cryFadeIn.anim
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/Courtney/DaydreamExpressions/daydreamWorriedFadeOut.anim
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/Courtney/DaydreamExpressions/daydreamNoneFadeOut.anim
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/Courtney/test.anim
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/Courtney/DaydreamExpressions/daydreamToungeFadeOut.anim
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/Courtney/cry.anim
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/daydreams/Girl.anim
+- Assets/Bundled/Games/FruitBasket/Sprites/frame-10.png
+- Assets/Bundled/Games/FruitBasket/Sprites/ref.png
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/daydreams/BurgerAndDrink.anim
+- Assets/Bundled/Games/FruitBasket/Sounds/lemon.ogg
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/Courtney/laughFadeIn.anim
+- Assets/Bundled/Games/FruitBasket/Sounds/melonL.ogg
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/daydreams/Burger.anim
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/daydreams/Panda.anim
+- Assets/Bundled/Games/FruitBasket/Sounds/dunk.ogg
+- Assets/Bundled/Games/FruitBasket/Sounds/whistle.ogg
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/daydreams/TicTacToe.anim
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/hoop/Hoop.controller
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/Courtney/DaydreamExpressions/daydreamKissFadeOut.anim
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/Courtney/cryFadeOut.anim
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/Courtney/DaydreamExpressions/daydreamKiss.anim
+- Assets/Bundled/Games/FruitBasket/Sounds/basketR.ogg
+- Assets/Bundled/Games/FruitBasket/Sounds/appleR.ogg
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/cats/catsIdle.anim
+- Assets/Bundled/Games/FruitBasket/Sprites/Animations/Courtney/DaydreamExpressions/daydreamNone.anim
+- Assets/Bundled/Games/FruitBasket/Sounds/melonBasketR.ogg
+Dependencies:
+- C:/Users/jacob/Downloads/Z - Source Code (10-27-25)/HeavenStudio-master/Assets/StreamingAssets/ntridol/common

@@ -1,0 +1,144 @@
+ManifestFileVersion: 0
+CRC: 904423060
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 16635427cd0e7d1579169a1d94f8636c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 341157e1d9012b316b40755ce25b9a06
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 16635427cd0e7d1579169a1d94f8636c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9ae63fcd437df0c4c91e553fb159986c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 32640a26a175a5d4baa5ba61b5446e33, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 558ee22857b0a9f48a8f8876116fd5b2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2402aaa1d4e67df479cc626100110795, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 174924f647af468498c31429703764fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 27e24d8dc75422c44a8e6c0dbe17d195, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f7da3ea3f48e67e4fb95580edccae00a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a375355ce9643dd40a371b496e3fc9ee, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e7d1e893c935d84b9b2f07e9cd6abfb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c24e5872094ce204ababcbfdc6db7b9d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 622e8db4bfec4d441bf18fd631559238, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 182
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 210
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: HeavenStudio.SuperCurveObject/Path
+- AssemblyName: Assembly-CSharp
+  ClassName: HeavenStudio.SuperCurveObject/PathPos
+Assets:
+- Assets/Bundled/Games/Lumbearjack/Sprites/barrelWood.png
+- Assets/Bundled/Games/Lumbearjack/Sounds/peachVoiceB.wav
+- Assets/Bundled/Games/Lumbearjack/Sounds/huh.wav
+- Assets/Bundled/Games/Lumbearjack/Sprites/barrelParts01.png
+- Assets/Bundled/Games/Lumbearjack/Sounds/bigLogHit.wav
+- Assets/Bundled/Games/Lumbearjack/Sounds/bombCut.ogg
+- Assets/Bundled/Games/Lumbearjack/Sounds/peachCut.wav
+- Assets/Bundled/Games/Lumbearjack/Sounds/peachPut.wav
+- Assets/Bundled/Games/Lumbearjack/Sounds/broomCut.wav
+- Assets/Bundled/Games/Lumbearjack/Sprites/CatPantsBlue.mat
+- Assets/Bundled/Games/Lumbearjack/Sounds/bombBreak.ogg
+- Assets/Bundled/Games/Lumbearjack/Sounds/baseHit.wav
+- Assets/Bundled/Games/Lumbearjack/Sounds/hugeLogCutVoice.wav
+- Assets/Bundled/Games/Lumbearjack/Sounds/sighA.wav
+- Assets/Bundled/Games/Lumbearjack/Sounds/hugeLogHit2.wav
+- Assets/Bundled/Games/Lumbearjack/Sounds/bigLogPut.wav
+- Assets/Bundled/Games/Lumbearjack/Sounds/hitVoiceA.wav
+- Assets/Bundled/Games/Lumbearjack/Prefabs/Cat.prefab
+- Assets/Bundled/Games/Lumbearjack/Sounds/cutVoiceA.wav
+- Assets/Bundled/Games/Lumbearjack/lumbearjack.prefab
+- Assets/Bundled/Games/Lumbearjack/Sounds/sighB.wav
+- Assets/Bundled/Games/Lumbearjack/Sounds/canCut.wav
+- Assets/Bundled/Games/Lumbearjack/Sounds/bigLogCut.wav
+- Assets/Bundled/Games/Lumbearjack/Prefabs/BigObject.prefab
+- Assets/Bundled/Games/Lumbearjack/Sounds/bigBallPut.wav
+- Assets/Bundled/Games/Lumbearjack/Sounds/hugeLogHit1.wav
+- Assets/Bundled/Games/Lumbearjack/Sounds/freezerPut.wav
+- Assets/Bundled/Games/Lumbearjack/Sounds/cutVoiceB.wav
+- Assets/Bundled/Games/Lumbearjack/Sounds/smallLogCut.wav
+- Assets/Bundled/Games/Lumbearjack/Sounds/hitVoiceB.wav
+- Assets/Bundled/Games/Lumbearjack/Sprites/lumbearjackobjects.png
+- Assets/Bundled/Games/Lumbearjack/Sounds/bookCut.ogg
+- Assets/Bundled/Games/Lumbearjack/Sprites/CatPants.mat
+- Assets/Bundled/Games/Lumbearjack/Sounds/canPut.wav
+- Assets/Bundled/Games/Lumbearjack/Sounds/bigBallHit.wav
+- Assets/Bundled/Games/Lumbearjack/Sprites/lumbearjackcustoms.png
+- Assets/Bundled/Games/Lumbearjack/Sprites/lumbearjackcharacter.png
+- Assets/Bundled/Games/Lumbearjack/Prefabs/SmallObject.prefab
+- Assets/Bundled/Games/Lumbearjack/Sprites/barrel.mat
+- Assets/Bundled/Games/Lumbearjack/Sprites/CatPantsGreen.mat
+- Assets/Bundled/Games/Lumbearjack/Sounds/peachHit3.wav
+- Assets/Bundled/Games/Lumbearjack/Sounds/bigLogCutVoice.wav
+- Assets/Bundled/Games/Lumbearjack/Sounds/freezerHit1.wav
+- Assets/Bundled/Games/Lumbearjack/Sounds/freezerHit2.wav
+- Assets/Bundled/Games/Lumbearjack/Sprites/barrelParts00.png
+- Assets/Bundled/Games/Lumbearjack/Sounds/barrelCut.ogg
+- Assets/Bundled/Games/Lumbearjack/Sounds/hugeLogHit3.wav
+- Assets/Bundled/Games/Lumbearjack/Sounds/smallLogPut.wav
+- Assets/Bundled/Games/Lumbearjack/Sounds/swing.wav
+- Assets/Bundled/Games/Lumbearjack/Sounds/readyVoice.wav
+- Assets/Bundled/Games/Lumbearjack/Sounds/peachVoiceA.wav
+- Assets/Bundled/Games/Lumbearjack/Sprites/splasheffect.png
+- Assets/Bundled/Games/Lumbearjack/Sprites/CatPantsPink.mat
+- Assets/Bundled/Games/Lumbearjack/Sounds/hugeLogCut.wav
+- Assets/Bundled/Games/Lumbearjack/Sounds/peachCutVoice.wav
+- Assets/Bundled/Games/Lumbearjack/Sounds/freezerHit3.wav
+- Assets/Bundled/Games/Lumbearjack/Sounds/peachHit2.wav
+- Assets/Bundled/Games/Lumbearjack/Sounds/hugeLogPut.wav
+- Assets/Bundled/Games/Lumbearjack/Prefabs/HugeObject.prefab
+- Assets/Bundled/Games/Lumbearjack/Sounds/bookPut.ogg
+- Assets/Bundled/Games/Lumbearjack/Sounds/freezerCut.wav
+- Assets/Bundled/Games/Lumbearjack/Sounds/bookBoom.ogg
+- Assets/Bundled/Games/Lumbearjack/Sounds/bigBallCut.wav
+- Assets/Bundled/Games/Lumbearjack/Sounds/broomPut.wav
+- Assets/Bundled/Games/Lumbearjack/Sprites/lumbearjackbg.png
+- Assets/Bundled/Games/Lumbearjack/Sounds/peachHit1.wav
+- Assets/Bundled/Games/Lumbearjack/Sounds/batCut.wav
+Dependencies: []
