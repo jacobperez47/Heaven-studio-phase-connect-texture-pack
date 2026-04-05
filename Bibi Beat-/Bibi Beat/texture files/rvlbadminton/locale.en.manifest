@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 2129801694
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ac996d3d9315ed311e4af74a5a24374
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4ac996d3d9315ed311e4af74a5a24374
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Games/AirRally/Sounds/en/baBumBumBum_Farther4.wav
+- Assets/Bundled/Games/AirRally/Sounds/en/countIn3Farthest.wav
+- Assets/Bundled/Games/AirRally/Sounds/en/countIn1Far.wav
+- Assets/Bundled/Games/AirRally/Sounds/en/countIn1Close.wav
+- Assets/Bundled/Games/AirRally/Sounds/en/baBumBumBum_Farthest4.wav
+- Assets/Bundled/Games/AirRally/Sounds/en/countIn2Farthest.wav
+- Assets/Bundled/Games/AirRally/Sounds/en/countIn4Far.wav
+- Assets/Bundled/Games/AirRally/Sounds/en/countIn2Close.wav
+- Assets/Bundled/Games/AirRally/Sounds/en/baBumBumBum_Far4.ogg
+- Assets/Bundled/Games/AirRally/Sounds/en/baBumBumBum_Farther1.wav
+- Assets/Bundled/Games/AirRally/Sounds/en/baBumBumBum_Close3.wav
+- Assets/Bundled/Games/AirRally/Sounds/en/countIn3Farther.wav
+- Assets/Bundled/Games/AirRally/Sounds/en/baBumBumBum_Farther3.wav
+- Assets/Bundled/Games/AirRally/Sounds/en/baBumBumBum_FarAlt3.wav
+- Assets/Bundled/Games/AirRally/Sounds/en/baBumBumBum_Far3.ogg
+- Assets/Bundled/Games/AirRally/Sounds/en/baBumBumBum_Far2.ogg
+- Assets/Bundled/Games/AirRally/Sounds/en/countIn4Farthest.wav
+- Assets/Bundled/Games/AirRally/Sounds/en/baBumBumBum_FarAlt2.wav
+- Assets/Bundled/Games/AirRally/Sounds/en/nya_Close.wav
+- Assets/Bundled/Games/AirRally/Sounds/en/countIn1Farthest.wav
+- Assets/Bundled/Games/AirRally/Sounds/en/countIn4Close.wav
+- Assets/Bundled/Games/AirRally/Sounds/en/countIn1Farther.wav
+- Assets/Bundled/Games/AirRally/Sounds/en/baBumBumBum_Farther2.wav
+- Assets/Bundled/Games/AirRally/Sounds/en/baBumBumBum_FarAlt4.wav
+- Assets/Bundled/Games/AirRally/Sounds/en/baBumBumBum_Farthest2.wav
+- Assets/Bundled/Games/AirRally/Sounds/en/nya_Farther.wav
+- Assets/Bundled/Games/AirRally/Sounds/en/nya_Farthest.wav
+- Assets/Bundled/Games/AirRally/Sounds/en/baBumBumBum_Farthest1.wav
+- Assets/Bundled/Games/AirRally/Sounds/en/baBumBumBum_Farthest3.wav
+- Assets/Bundled/Games/AirRally/Sounds/en/countIn2Farther.wav
+- Assets/Bundled/Games/AirRally/Sounds/en/baBumBumBum_FarAlt1.wav
+- Assets/Bundled/Games/AirRally/Sounds/en/nya_Far.wav
+- Assets/Bundled/Games/AirRally/Sounds/en/baBumBumBum_Close2.wav
+- Assets/Bundled/Games/AirRally/Sounds/en/countIn3Far.wav
+- Assets/Bundled/Games/AirRally/Sounds/en/countIn4Farther.wav
+- Assets/Bundled/Games/AirRally/Sounds/en/baBumBumBum_Far1.ogg
+- Assets/Bundled/Games/AirRally/Sounds/en/countIn3Close.wav
+- Assets/Bundled/Games/AirRally/Sounds/en/baBumBumBum_Close4.wav
+- Assets/Bundled/Games/AirRally/Sounds/en/baBumBumBum_Close1.wav
+- Assets/Bundled/Games/AirRally/Sounds/en/countIn2Far.wav
+Dependencies: []

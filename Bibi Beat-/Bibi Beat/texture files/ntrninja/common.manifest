@@ -1,0 +1,182 @@
+ManifestFileVersion: 0
+CRC: 1655790901
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7fbbbac9efe0b12d9cac045adf2eecd5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 993e0ca805f9664e822b6aad6a915b1c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7fbbbac9efe0b12d9cac045adf2eecd5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5ac06902fd6630045a550c76211fcc63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6f3ef60f47c093b45a623a707f33c877, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b0cca3244f403c24f819a870f31cdc29, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b82899be2d36d2d48ad3ef1a3ce1c7de, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 066a41e004f415b4eb74d5e61a2aadbe, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: HeavenStudio.Util.SoundSequence
+- AssemblyName: Assembly-CSharp
+  ClassName: HeavenStudio.Util.SoundSequence/SequenceClip
+- AssemblyName: Assembly-CSharp
+  ClassName: HeavenStudio.Util.SoundSequence/SequenceKeyValue
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Character
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Bundled/Games/DogNinja/Sounds/JP_1here.ogg
+- Assets/Bundled/Games/DogNinja/Sounds/NecoArc2.ogg
+- Assets/Bundled/Games/DogNinja/Sounds/MeatGrinder2.ogg
+- Assets/Bundled/Games/DogNinja/Sprites/Animation/Dog/SliceBoth.anim
+- Assets/Bundled/Games/DogNinja/Sounds/Karateka2.ogg
+- Assets/Bundled/Games/DogNinja/Sounds/ThumpFarm2.ogg
+- Assets/Bundled/Games/DogNinja/Sounds/IaiGiriGaiden1.ogg
+- Assets/Bundled/Games/DogNinja/Sounds/JP_3go.ogg
+- Assets/Bundled/Games/DogNinja/Sprites/Animation/Dog/Prepare.anim
+- Assets/Bundled/Games/DogNinja/Sounds/useless/00007 - .wav
+- Assets/Bundled/Games/DogNinja/Sounds/we.ogg
+- Assets/Bundled/Games/DogNinja/Sounds/useless/whack.wav
+- Assets/Bundled/Games/DogNinja/Sounds/AirBatter2.ogg
+- Assets/Bundled/Games/DogNinja/Sounds/useless/clap.wav
+- Assets/Bundled/Games/DogNinja/Sounds/BattingShow2.ogg
+- Assets/Bundled/Games/DogNinja/Sprites/Animation/Dog/WhiffRight.anim
+- Assets/Bundled/Games/DogNinja/Sounds/whiff.ogg
+- Assets/Bundled/Games/DogNinja/Sounds/NecoArc1.ogg
+- Assets/Bundled/Games/DogNinja/Sounds/idol1.ogg
+- Assets/Bundled/Games/DogNinja/Sounds/useless/coin_flick.wav
+- Assets/Bundled/Games/DogNinja/Sounds/tacobell2.ogg
+- Assets/Bundled/Games/DogNinja/Sounds/punch.ogg
+- Assets/Bundled/Games/DogNinja/Sprites/Animation/Halves/Idle.anim
+- Assets/Bundled/Games/DogNinja/dogNinja.prefab
+- Assets/Bundled/Games/DogNinja/Sounds/idol2.ogg
+- Assets/Bundled/Games/DogNinja/Sounds/useless/cut_lowQ.wav
+- Assets/Bundled/Games/DogNinja/Sprites/Animation/Dog/Bop.anim
+- Assets/Bundled/Games/DogNinja/Sounds/AmongUs1.ogg
+- Assets/Bundled/Games/DogNinja/Sprites/Animation/Dog/SliceRight.anim
+- Assets/Bundled/Games/DogNinja/Sprites/AboutFriendExtended SDF.asset
+- Assets/Bundled/Games/DogNinja/Sounds/bone2.ogg
+- Assets/Bundled/Games/DogNinja/Sprites/Animation/Dog/SliceLeft.anim
+- Assets/Bundled/Games/DogNinja/Sprites/Animation/Dog/WhiffGlobal.anim
+- Assets/Bundled/Games/DogNinja/Sounds/go.ogg
+- Assets/Bundled/Games/DogNinja/Sprites/Animation/Dog/BarelyRight.anim
+- Assets/Bundled/Games/DogNinja/Sounds/here.ogg
+- Assets/Bundled/Games/DogNinja/Sounds/pan2.ogg
+- Assets/Bundled/Games/DogNinja/Sounds/useless/pan_slice.wav
+- Assets/Bundled/Games/DogNinja/Sounds/fruit2.ogg
+- Assets/Bundled/Games/DogNinja/Sprites/Animation/Dog/WhiffLeft.anim
+- Assets/Bundled/Games/DogNinja/Sprites/AboutFriendExtended.otf
+- Assets/Bundled/Games/DogNinja/Sounds/MeatGrinder1.ogg
+- Assets/Bundled/Games/DogNinja/Sounds/pan1.ogg
+- Assets/Bundled/Games/DogNinja/Sprites/Animation/Halves/LeftHalfFallRight.anim
+- Assets/Bundled/Games/DogNinja/Sprites/Animation/Halves/RightHalfFallLeft.anim
+- Assets/Bundled/Games/DogNinja/Sprites/DogNinja_OtherObjects.png
+- Assets/Bundled/Games/DogNinja/Sprites/Animation/Halves/RightHalfAnim.controller
+- Assets/Bundled/Games/DogNinja/Sounds/tire2.ogg
+- Assets/Bundled/Games/DogNinja/Sounds/Karateka1.ogg
+- Assets/Bundled/Games/DogNinja/Sounds/bone1.ogg
+- Assets/Bundled/Games/DogNinja/Sprites/DogNinja.png
+- Assets/Bundled/Games/DogNinja/Sounds/bird_flap.ogg
+- Assets/Bundled/Games/DogNinja/Sounds/YaseiNoIkiG3M41.ogg
+- Assets/Bundled/Games/DogNinja/Sounds/useless/drum.wav
+- Assets/Bundled/Games/DogNinja/Sounds/ThumpFarm1.ogg
+- Assets/Bundled/Games/DogNinja/Sounds/tire1.ogg
+- Assets/Bundled/Games/DogNinja/Sounds/AmongUs2.ogg
+- Assets/Bundled/Games/DogNinja/Sprites/Animation/Dog/Idle.anim
+- Assets/Bundled/Games/DogNinja/Sprites/Animation/Dog/DogAnim.controller
+- Assets/Bundled/Games/DogNinja/Sounds/BattingShow1.ogg
+- Assets/Bundled/Games/DogNinja/Sprites/Animation/Bird/FlyOut.anim
+- Assets/Bundled/Games/DogNinja/Sounds/YaseiNoIkiG3M42.ogg
+- Assets/Bundled/Games/DogNinja/Sounds/barely.ogg
+- Assets/Bundled/Games/DogNinja/Sounds/JP_2we.ogg
+- Assets/Bundled/Games/DogNinja/Sprites/Animation/Halves/LeftHalfAnim.controller
+- Assets/Bundled/Games/DogNinja/Sounds/bird_flap_no_effect.ogg
+- Assets/Bundled/Games/DogNinja/Sounds/tacobell1.ogg
+- Assets/Bundled/Games/DogNinja/Sounds/useless/train.wav
+- Assets/Bundled/Games/DogNinja/Sprites/DogNinjaBackground.png
+- Assets/Bundled/Games/DogNinja/Sounds/useless/splash.wav
+- Assets/Bundled/Games/DogNinja/Sprites/Animation/Dog/BarelyGlobal.anim
+- Assets/Bundled/Games/DogNinja/Sounds/fruit1.ogg
+- Assets/Bundled/Games/DogNinja/Sounds/useless/samurai_slice.wav
+- Assets/Bundled/Games/DogNinja/Sounds/IaiGiriGaiden2.ogg
+- Assets/Bundled/Games/DogNinja/Sprites/Animation/Dog/BarelyLeft.anim
+- Assets/Bundled/Games/DogNinja/Sprites/Animation/Bird/BirdAnim.controller
+- Assets/Bundled/Games/DogNinja/Sounds/AirBatter1.ogg
+- Assets/Bundled/Games/DogNinja/Sprites/Animation/Bird/FlyIn.anim
+- Assets/Bundled/Games/DogNinja/Sprites/Animation/Halves/RightHalfFallRight.anim
+- Assets/Bundled/Games/DogNinja/Sprites/Animation/Halves/LeftHalfFallLeft.anim
+- Assets/Bundled/Games/DogNinja/Sprites/Animation/Dog/UnPrepare.anim
+Dependencies: []

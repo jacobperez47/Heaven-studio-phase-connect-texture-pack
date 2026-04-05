@@ -1,0 +1,100 @@
+ManifestFileVersion: 0
+CRC: 3132309443
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 25bb83da66fee0eba4a7a3df7e066dc0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f8245a7ec38981dacf38a9d6081f7f4
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 25bb83da66fee0eba4a7a3df7e066dc0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: cd6b3558bb367914eb7c7991d6c93205, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9a1426575a6edb4b8f43668daac9f21, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a761d8a407e1d9d49afaed94b793ed75, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 19e8dfe8892016d4aa1496953c7e0dba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a0af826655923964aa4e61c2e0ceffac, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59df055286c020b4b812f05e25c0ac08, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 219e83c141eaaae47a01576430475263, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54f50efea631bab46b56ebad3e63c4e2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 891c0b37d3276da4fa7ea5ba3332dc13, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 210
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: HeavenStudio.Games.Scripts_AirRally.Cloud/Weight
+Assets:
+- Assets/Bundled/Games/AirRally/airRally.prefab
+- Assets/Bundled/Games/AirRally/Sounds/hitForth_Farther.wav
+- Assets/Bundled/Games/AirRally/Sprites/Clouds.mat
+- Assets/Bundled/Games/AirRally/Sounds/hitForth_Farther2.wav
+- Assets/Bundled/Games/AirRally/Sounds/whooshForth_Farther2.wav
+- Assets/Bundled/Games/AirRally/Sounds/hitForth_Far.wav
+- Assets/Bundled/Games/AirRally/Sounds/hitForth_Close.wav
+- Assets/Bundled/Games/AirRally/Sounds/whooshForth_Far2.wav
+- Assets/Bundled/Games/AirRally/Sounds/whooshForth_Farther.wav
+- Assets/Bundled/Games/AirRally/Sounds/hitBaxter_Far.wav
+- Assets/Bundled/Games/AirRally/Sprites/Objects.mat
+- Assets/Bundled/Games/AirRally/Sounds/whooshForth_Farthest.wav
+- Assets/Bundled/Games/AirRally/Sounds/whooshForth_Farthest2.wav
+- Assets/Bundled/Games/AirRally/Sounds/hitBaxter_Farthest.wav
+- Assets/Bundled/Games/AirRally/Sprites/BG Air Rally.png
+- Assets/Bundled/Games/AirRally/Sounds/hitBaxter_Farthest2.wav
+- Assets/Bundled/Games/AirRally/Sounds/hitBaxter_Farther2.wav
+- Assets/Bundled/Games/AirRally/Sounds/planesSlowDown.wav
+- Assets/Bundled/Games/AirRally/Sounds/swing.wav
+- Assets/Bundled/Games/AirRally/Sounds/hitBaxter_Close.wav
+- Assets/Bundled/Games/AirRally/Sounds/hitForth_Far2.wav
+- Assets/Bundled/Games/AirRally/Sounds/planesSpeedUp.wav
+- Assets/Bundled/Games/AirRally/Sounds/birdieCatch.wav
+- Assets/Bundled/Games/AirRally/Sprites/AirRally_1.png
+- Assets/Bundled/Games/AirRally/Sounds/whooshForth_Far.wav
+- Assets/Bundled/Games/AirRally/Sounds/hitForth_Farthest.wav
+- Assets/Bundled/Games/AirRally/Sounds/hitForth_Farthest2.wav
+- Assets/Bundled/Games/AirRally/Sounds/hitBaxter_Farther.wav
+- Assets/Bundled/Games/AirRally/Sounds/hitBaxter_Far2.wav
+Dependencies: []

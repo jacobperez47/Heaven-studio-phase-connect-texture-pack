@@ -1,0 +1,78 @@
+ManifestFileVersion: 0
+CRC: 3875004049
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b5787e9f91fadfc8193878f60adc77c1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b5787e9f91fadfc8193878f60adc77c1
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Games/CheerReaders/Sounds/Girls/UpToYou/sgirls.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Solo/OKItsOn/okItsOnS4.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Girls/UpToYou/yougirls.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Girls/RRSBBB/rahRahSisBoomBaBoomgirls5.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Solo/OKItsOn/okItsOnS1.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Solo/RRSBBB/rahRahSisBoomBaBoomS5.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Solo/LetsGoRead/bunchaBooksS5.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Solo/RRSBBB/rahRahSisBoomBaBoomS2.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Girls/LetsGoRead/bunchaBooksgirls2.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Solo/RRSBBB/rahRahSisBoomBaBoomS1.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Solo/OKItsOn/okItsOnS3.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Girls/LetsGoRead/bunchaBooksgirls8.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Girls/RRSBBB/rahRahSisBoomBaBoomgirls4.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Solo/123/oneTwoThreeS3.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Solo/yayS.wav
+- Assets/Bundled/Games/CheerReaders/Sounds/Solo/RRSBBB/rahRahSisBoomBaBoomS3.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Solo/LetsGoRead/bunchaBooksS2.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Solo/LetsGoRead/bunchaBooksS4.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Solo/UpToYou/itsUpToYouS4.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Solo/UpToYou/itsUpToYouS5.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Girls/OKItsOn/okItsOngirls3.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Girls/UpToYou/itgirls.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Girls/RRSBBB/rahRahSisBoomBaBoomgirls2.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Girls/RRSBBB/rahRahSisBoomBaBoomgirls6.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Girls/RRSBBB/rahRahSisBoomBaBoomgirls1.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Girls/123/twogirls.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Solo/123/oneTwoThreeS2.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Girls/123/threegirls.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Solo/OKItsOn/okItsOnS2.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Solo/LetsGoRead/bunchaBooksS3.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Solo/UpToYou/itsUpToYouS3.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Girls/LetsGoRead/bunchaBooksgirls3.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Girls/LetsGoRead/bunchaBooksgirls1.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Girls/LetsGoRead/bunchaBooksgirls9.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Girls/LetsGoRead/bunchaBooksgirls5.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Solo/LetsGoRead/bunchaBooksS1.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Solo/RRSBBB/rahRahSisBoomBaBoomS4.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Girls/LetsGoRead/bunchaBooksgirls4.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Solo/LetsGoRead/bunchaBooksS7.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Solo/UpToYou/itsUpToYouS1.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Girls/UpToYou/togirls.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Girls/RRSBBB/rahRahSisBoomBaBoomgirls3.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Girls/OKItsOn/okItsOngirls2.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Girls/OKItsOn/okItsOngirls4.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Solo/LetsGoRead/bunchaBooksS8.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Solo/OKItsOn/okItsOnS5.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Solo/RRSBBB/rahRahSisBoomBaBoomS6.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Girls/yayGirls.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Girls/UpToYou/upgirls.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Girls/LetsGoRead/bunchaBooksgirls6.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/All/yay.wav
+- Assets/Bundled/Games/CheerReaders/Sounds/Girls/LetsGoRead/bunchaBooksgirls7.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Solo/UpToYou/itsUpToYouS2.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Girls/OKItsOn/okItsOngirls1.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Solo/LetsGoRead/bunchaBooksS6.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Solo/LetsGoRead/bunchaBooksS9.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Girls/OKItsOn/okItsOngirls5.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Girls/123/onegirls.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/Solo/123/oneTwoThreeS1.ogg
+Dependencies: []

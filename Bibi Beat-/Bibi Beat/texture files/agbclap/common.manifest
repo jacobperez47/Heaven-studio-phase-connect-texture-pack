@@ -1,0 +1,89 @@
+ManifestFileVersion: 0
+CRC: 1921048611
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3f267856348cc3e38cbab4e573f2093d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f824d06049b623b462e346bbb2cf00b1
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3f267856348cc3e38cbab4e573f2093d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a7c8ebd2f1b0ce448acc55b6f6608e15, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Bundled/Games/ClappyTrio/Sprites/Animations/SignIdle.anim
+- Assets/Bundled/Games/ClappyTrio/Sounds/sign.ogg
+- Assets/Bundled/Games/ClappyTrio/Sounds/ready.ogg
+- Assets/Bundled/Games/ClappyTrio/Sprites/GameSprites.png
+- Assets/Bundled/Games/ClappyTrio/Sprites/Animations/Bop.anim
+- Assets/Bundled/Games/ClappyTrio/Sprites/Animations/Idle.anim
+- Assets/Bundled/Games/ClappyTrio/Sounds/middleClap.ogg
+- Assets/Bundled/Games/ClappyTrio/clappyTrio.prefab
+- Assets/Bundled/Games/ClappyTrio/Sprites/Animations/Lion.controller
+- Assets/Bundled/Games/ClappyTrio/Sprites/Animations/Prepare.anim
+- Assets/Bundled/Games/ClappyTrio/Sprites/Animations/Enter.anim
+- Assets/Bundled/Games/ClappyTrio/Sounds/rightClap.ogg
+- Assets/Bundled/Games/ClappyTrio/Sounds/leftClap.ogg
+- Assets/Bundled/Games/ClappyTrio/Sprites/Animations/Clap.anim
+- Assets/Bundled/Games/ClappyTrio/Sprites/Animations/Exit.anim
+- Assets/Bundled/Games/ClappyTrio/Sprites/Animations/Sign.controller
+Dependencies: []

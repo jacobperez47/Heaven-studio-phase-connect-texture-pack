@@ -1,0 +1,103 @@
+ManifestFileVersion: 0
+CRC: 2154890043
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7138f3b618eaec970f90080ca2685ff2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ded0770ee6a94251ef10234dbc31a0e1
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7138f3b618eaec970f90080ca2685ff2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1c65edbeb331f94d84d8d2dcad69f88, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b0cca3244f403c24f819a870f31cdc29, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 066a41e004f415b4eb74d5e61a2aadbe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dd184fa5b9423d5488106a8de6376a65, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf30625731c8cf8409a475aaabc11902, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc32068957f9ab344a995c787adf65b1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 210
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: HeavenStudio.SuperCurveObject/Path
+- AssemblyName: Assembly-CSharp
+  ClassName: HeavenStudio.SuperCurveObject/PathPos
+Assets:
+- Assets/Bundled/Games/PackingPests/Sprites/Materials/Layer1.mat
+- Assets/Bundled/Games/PackingPests/Sounds/SE_SHIWAKE_EN_VOICE_READY1.wav
+- Assets/Bundled/Games/PackingPests/Sounds/SE_SHIWAKE_EN_VOICE_REST_A.wav
+- Assets/Bundled/Games/PackingPests/Sounds/SE_SHIWAKE_EN_VOICE_READY2.wav
+- Assets/Bundled/Games/PackingPests/Sounds/SE_SHIWAKE_EN_MISS_INSECT_THROUGH_B.wav
+- Assets/Bundled/Games/PackingPests/Sprites/Materials/Gameplay.mat
+- Assets/Bundled/Games/PackingPests/packingPests.prefab
+- Assets/Bundled/Games/PackingPests/Sounds/SE_SHIWAKE_EN_MISS_INSECT_THROUGH_A.wav
+- Assets/Bundled/Games/PackingPests/Sounds/SE_SHIWAKE_EN_BALL_CATCH_B.wav
+- Assets/Bundled/Games/PackingPests/Sprites/Materials/Layer8.mat
+- Assets/Bundled/Games/PackingPests/Prefabs/Spider.prefab
+- Assets/Bundled/Games/PackingPests/Sprites/Materials/Layer6.mat
+- Assets/Bundled/Games/PackingPests/Prefabs/Objects/Spider.prefab
+- Assets/Bundled/Games/PackingPests/Sounds/SE_SHIWAKE_EN_MISS_INSECT_CATCH_B.wav
+- Assets/Bundled/Games/PackingPests/Prefabs/SpiderSwat.prefab
+- Assets/Bundled/Games/PackingPests/Prefabs/Objects/Candy.prefab
+- Assets/Bundled/Games/PackingPests/Sounds/SE_SHIWAKE_EN_BALL_CATCH_A.wav
+- Assets/Bundled/Games/PackingPests/Sprites/Materials/Layer5.mat
+- Assets/Bundled/Games/PackingPests/Sounds/SE_SHIWAKE_EN_VOICE_READY.wav
+- Assets/Bundled/Games/PackingPests/Sounds/SE_SHIWAKE_EN_SWING.wav
+- Assets/Bundled/Games/PackingPests/Sprites/Materials/Layer7.mat
+- Assets/Bundled/Games/PackingPests/Sprites/packingpests.png
+- Assets/Bundled/Games/PackingPests/Prefabs/Head.prefab
+- Assets/Bundled/Games/PackingPests/Sounds/SE_SHIWAKE_EN_BALL_CATCH_C.wav
+- Assets/Bundled/Games/PackingPests/Sprites/packing_pests_bg.png
+- Assets/Bundled/Games/PackingPests/Sounds/SE_SHIWAKE_EN_MISS_BALL_THROUGH_B.wav
+- Assets/Bundled/Games/PackingPests/Sounds/SE_SHIWAKE_EN_SWING_CATCH_B.wav
+- Assets/Bundled/Games/PackingPests/Sounds/SE_SHIWAKE_EN_BALL_OUT.wav
+- Assets/Bundled/Games/PackingPests/Sounds/SE_SHIWAKE_EN_MISS_INSECT_CATCH_A.wav
+- Assets/Bundled/Games/PackingPests/Sprites/Materials/Layer4.mat
+- Assets/Bundled/Games/PackingPests/Sounds/SE_SHIWAKE_EN_VOICE_REST_B.wav
+- Assets/Bundled/Games/PackingPests/Sprites/Materials/Layer2.mat
+- Assets/Bundled/Games/PackingPests/Sounds/SE_SHIWAKE_EN_INSECT_OUT.wav
+- Assets/Bundled/Games/PackingPests/Prefabs/Candy.prefab
+- Assets/Bundled/Games/PackingPests/Prefabs/WorkerHands.prefab
+- Assets/Bundled/Games/PackingPests/Sounds/SE_SHIWAKE_EN_INSECT_ATTACK_B.wav
+- Assets/Bundled/Games/PackingPests/Sprites/Materials/Layer3.mat
+- Assets/Bundled/Games/PackingPests/Sounds/SE_SHIWAKE_EN_INSECT_ATTACK_A.wav
+- Assets/Bundled/Games/PackingPests/Sounds/SE_SHIWAKE_EN_OSII.wav
+- Assets/Bundled/Games/PackingPests/Sounds/SE_SHIWAKE_EN_MISS_BALL_ATTACK_A.wav
+- Assets/Bundled/Games/PackingPests/Sounds/SE_SHIWAKE_EN_MISS_BALL_THROUGH_A.wav
+- Assets/Bundled/Games/PackingPests/Sounds/SE_SHIWAKE_EN_VOICE_READY3.wav
+- Assets/Bundled/Games/PackingPests/Sounds/SE_SHIWAKE_EN_MISS_BALL_ATTACK_B.wav
+- Assets/Bundled/Games/PackingPests/Sounds/SE_SHIWAKE_EN_SWING_CATCH_A.wav
+Dependencies: []

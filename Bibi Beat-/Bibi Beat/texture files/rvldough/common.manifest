@@ -1,0 +1,126 @@
+ManifestFileVersion: 0
+CRC: 966676003
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 77caa7d76b9e75c1960e00a128cd4e59
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5bf8e70f07e4b28464f5f78c65ada5cb
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 77caa7d76b9e75c1960e00a128cd4e59
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f589a35cd43c5a146b78729182754157, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6334d8b26ef6dcc4b9a03aa49dfa2d70, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 503227ca09b30214e829ee966da0049a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: HeavenStudio.SuperCurveObject/Path
+- AssemblyName: Assembly-CSharp
+  ClassName: HeavenStudio.SuperCurveObject/PathPos
+Assets:
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/PlayerNoBigMode.anim
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/OnGround.anim
+- Assets/Bundled/Games/WorkingDough/Sounds/smallOther.wav
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/BallTransporterRightOpened.anim
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/SmallDoughDudeIdle.anim
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/BigMode.anim
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/Alarm.controller
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/SpaceshipLights.anim
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/BallTransporterRight.controller
+- Assets/Bundled/Games/WorkingDough/Sounds/hitSmallOther.wav
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/ConveyerBelt.anim
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/PlayerExitBigMode.anim
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/BallTransporterLeftClose.anim
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/BallTransporterLeftClosed.anim
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/LiftUp.anim
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/DoughDudesHolder.controller
+- Assets/Bundled/Games/WorkingDough/Sounds/smallPlayer.wav
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/InAir.anim
+- Assets/Bundled/Games/WorkingDough/Sounds/LaunchRobot.wav
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/RiseSpaceship.anim
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/BallTransporterRightClosed.anim
+- Assets/Bundled/Games/WorkingDough/Sounds/hitSmallPlayer.wav
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/GANDWEnter.anim
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/MrGameAndWatch.controller
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/NPCBallTransporters.controller
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/PlayerBigMode.anim
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/GANDWLeave.anim
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/SpaceshipShake.anim
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/SpaceshipLaunched.anim
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/BigDoughDudeIdle.anim
+- Assets/Bundled/Games/WorkingDough/Sounds/BallMiss.wav
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/GANDWLeft.anim
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/BallTransporterRightClose.anim
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/ConveyerBelt.controller
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/SpaceshipParts.controller
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/BallTransporterLeftOpen.anim
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/LiftDown.anim
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/NPCExitBigMode.anim
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/AbsorbBall.anim
+- Assets/Bundled/Games/WorkingDough/Sprites/cellanim.tpl.mm1.png
+- Assets/Bundled/Games/WorkingDough/Sprites/cellanim.tpl 2.png
+- Assets/Bundled/Games/WorkingDough/Sounds/tooBig.wav
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/NPCGoBigMode.anim
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/Lights.controller
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/MrGameAndWatchLeverDown.anim
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/PlayerGoBigMode.anim
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/Risen.anim
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/SpaceshipLaunch.anim
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/GANDWLeverUp.anim
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/DoughDudes.controller
+- Assets/Bundled/Games/WorkingDough/Sounds/hitBigOther.wav
+- Assets/Bundled/Games/WorkingDough/Sounds/tooSmallAr.wav
+- Assets/Bundled/Games/WorkingDough/Sounds/bigOther.wav
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/BallTransporterLeft.controller
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/PlayerBallTransporters.controller
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/AlarmIdle.anim
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/BallTransporterRightOpen.anim
+- Assets/Bundled/Games/WorkingDough/Sounds/tooSmall.wav
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/SpaceShipParts.anim
+- Assets/Bundled/Games/WorkingDough/Sounds/hitBigPlayer.wav
+- Assets/Bundled/Games/WorkingDough/Sounds/bigPlayer.wav
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/BigDoughDude.controller
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/SmallDoughDude.controller
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/BigDoughJump.anim
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/NoJumping.anim
+- Assets/Bundled/Games/WorkingDough/workingDough.prefab
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/BallTransporterLeftOpened.anim
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/SmallMode.anim
+- Assets/Bundled/Games/WorkingDough/Sprites/Animations/SmallDoughJump.anim
+Dependencies: []

@@ -1,0 +1,147 @@
+ManifestFileVersion: 0
+CRC: 723011192
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c456a4ae728b6cb715e9ba5adaa97526
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ee64361f6502a140cbe2cab1ea6ce202
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c456a4ae728b6cb715e9ba5adaa97526
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 52fc4bed1556bb449810725f94962f9b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f54dd4f8a76ab24fa06309eac9311b7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2430b0a2323860c41973e7787c3ba3f5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 210
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 331
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: HeavenStudio.Games.CheerReaders/PosterImages
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Bundled/Games/CheerReaders/Sounds/bookDiagonal.ogg
+- Assets/Bundled/Games/CheerReaders/Sprites/OK It's On Graphics/RhythmTweezersPlaceholder.png
+- Assets/Bundled/Games/CheerReaders/Sprites/Animations/OpenBook.anim
+- Assets/Bundled/Games/CheerReaders/Sprites/Animations/FaceThree.anim
+- Assets/Bundled/Games/CheerReaders/Sprites/You.png
+- Assets/Bundled/Games/CheerReaders/Sprites/Animations/FaceBop.anim
+- Assets/Bundled/Games/CheerReaders/Sounds/letsGoRead.ogg
+- Assets/Bundled/Games/CheerReaders/Sprites/Animations/FaceItsOnHappy.anim
+- Assets/Bundled/Games/CheerReaders/Sprites/Animations/FaceTo.anim
+- Assets/Bundled/Games/CheerReaders/Sprites/Animations/WhiteBop.anim
+- Assets/Bundled/Games/CheerReaders/Sprites/Animations/BlacktoWhite.anim
+- Assets/Bundled/Games/CheerReaders/Sprites/OK It's On Graphics/Test.png
+- Assets/Bundled/Games/CheerReaders/Sprites/Animations/FaceIts.anim
+- Assets/Bundled/Games/CheerReaders/Sounds/bookOpen.ogg
+- Assets/Bundled/Games/CheerReaders/Sounds/bookPlayer.ogg
+- Assets/Bundled/Games/CheerReaders/Sprites/Animations/BlackBop.anim
+- Assets/Bundled/Games/CheerReaders/Sprites/Animations/FaceBlush.anim
+- Assets/Bundled/Games/CheerReaders/Sprites/Animations/BaseAnim.controller
+- Assets/Bundled/Games/CheerReaders/Sprites/Animations/MissWhite.anim
+- Assets/Bundled/Games/CheerReaders/Sprites/Animations/BlackYay.anim
+- Assets/Bundled/Games/CheerReaders/Sprites/Animations/FaceAnim.controller
+- Assets/Bundled/Games/CheerReaders/Sprites/Animations/WhiteYay.anim
+- Assets/Bundled/Games/CheerReaders/Sprites/cheer-readers.png
+- Assets/Bundled/Games/CheerReaders/Sounds/whistle1.ogg
+- Assets/Bundled/Games/CheerReaders/Sprites/Animations/FaceIdle.anim
+- Assets/Bundled/Games/CheerReaders/Sprites/Animations/BlackIdle.anim
+- Assets/Bundled/Games/CheerReaders/Sprites/OK It's On Graphics/DJSchoolPlaceholder.png
+- Assets/Bundled/Games/CheerReaders/Sounds/bookVertical.ogg
+- Assets/Bundled/Games/CheerReaders/Sprites/bookmask.png
+- Assets/Bundled/Games/CheerReaders/Sprites/Animations/FaceOne.anim
+- Assets/Bundled/Games/CheerReaders/Sprites/tex1_1024x1024_e5fe04bdb6c79e4d_5.png
+- Assets/Bundled/Games/CheerReaders/Sprites/Animations/Facial Features.controller
+- Assets/Bundled/Games/CheerReaders/Sprites/Animations/FaceYou.anim
+- Assets/Bundled/Games/CheerReaders/Sounds/miss.wav
+- Assets/Bundled/Games/CheerReaders/Sounds/bookSpinLoop.ogg
+- Assets/Bundled/Games/CheerReaders/Sprites/Animations/RepositionToBlack.anim
+- Assets/Bundled/Games/CheerReaders/Sprites/Animations/SpinfromWhite.anim
+- Assets/Bundled/Games/CheerReaders/Sprites/Animations/WhitetoBlack.anim
+- Assets/Bundled/Games/CheerReaders/Sounds/whistle2.ogg
+- Assets/Bundled/Games/CheerReaders/Sprites/Animations/Bop.anim
+- Assets/Bundled/Games/CheerReaders/Sprites/Animations/FaceNPCLook1.anim
+- Assets/Bundled/Games/CheerReaders/Sprites/Animations/Idle.anim
+- Assets/Bundled/Games/CheerReaders/Sprites/OK It's On Graphics/LockstepPlaceholder.png
+- Assets/Bundled/Games/CheerReaders/Sprites/Animations/FaceBoom.anim
+- Assets/Bundled/Games/CheerReaders/Sprites/Animations/FaceIdleNPC.anim
+- Assets/Bundled/Games/CheerReaders/Sounds/doingoing.wav
+- Assets/Bundled/Games/CheerReaders/Sounds/bookBoom.ogg
+- Assets/Bundled/Games/CheerReaders/Sprites/Animations/FaceBoomNPC.anim
+- Assets/Bundled/Games/CheerReaders/cheerReaders.prefab
+- Assets/Bundled/Games/CheerReaders/Sprites/Animations/SpinfromBlack.anim
+- Assets/Bundled/Games/CheerReaders/Sprites/Animations/FaceNPCLook2.anim
+- Assets/Bundled/Games/CheerReaders/Sprites/Animations/RepositionToWhite.anim
+- Assets/Bundled/Games/CheerReaders/Sprites/Animations/FaceTwo.anim
+- Assets/Bundled/Games/CheerReaders/Sounds/bookSpin.ogg
+- Assets/Bundled/Games/CheerReaders/Sprites/Animations/MissBlack.anim
+- Assets/Bundled/Games/CheerReaders/Sounds/bookHorizontal.ogg
+- Assets/Bundled/Games/CheerReaders/Sprites/Animations/WhiteIdle.anim
+- Assets/Bundled/Games/CheerReaders/Sprites/Animations/FaceYay.anim
+- Assets/Bundled/Games/CheerReaders/Sprites/Animations/FaceItsOnNPC.anim
+- Assets/Bundled/Games/CheerReaders/Sprites/Animations/FaceUp.anim
+Dependencies: []
